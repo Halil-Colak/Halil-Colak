@@ -1,16 +1,23 @@
-## Hi there 👋
+```javascript
 
-<!--
-**Halil-Colak/Halil-Colak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const halil = {
+  code: {
+    languages: ["C#", "JavaScript", "TypeScript", "SQL", "T-SQL"],
+    technologies: {
+      backend: ["ASP.NET Core", "Entity Framework", "PostgreSQL", "MSSQL"],
+      frontend: ["React.js", "Next.js", "Tailwind CSS", "Shadcn UI", "SASS", "Bootstrap", "jQuery"], 
+      tools: ["Git", "Postman", "DBeaver", "Vercel"],
+      systems_and_panels: ["Linux", "Plesk Panel"]
+    }
+  },
+  hobbies: ["Gusion Main (MLBB)", "Competitive Gaming"],
+  status: {
+    isCoffeePowered: true,
+    nightOwl: true,
+    portfolio: "https://halilcolak.vercel.app/"
+  }
+};
 
-Here are some ideas to get you started:
+console.log("Full Stack .NET Developer | UI/UX Enthusiast | Seeking Global Myth Rank");
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
