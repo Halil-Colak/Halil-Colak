@@ -14,7 +14,7 @@ const halil = {
   status: {
     isCoffeePowered: true,
     nightOwl: true,
-    portfolio: "https://halilcolak.vercel.app/"
+    portfolio: "https://halilcolak.vercel.app"
   }
 };
 
