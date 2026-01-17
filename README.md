@@ -5,9 +5,8 @@ const halil = {
     languages: ["C#", "JavaScript", "TypeScript", "SQL", "T-SQL"],
     technologies: {
       backend: ["ASP.NET Core", "Entity Framework", "PostgreSQL", "MSSQL"],
-      frontend: ["React.js", "Next.js", "Tailwind CSS", "Shadcn UI", "SASS", "Bootstrap", "jQuery"], 
-      tools: ["Git", "Postman", "DBeaver", "Vercel"],
-      systems_and_panels: ["Linux", "Plesk Panel"]
+      frontend: ["React.js", "Next.js", "Tailwind CSS", "SASS", "Bootstrap", "jQuery"], 
+      systems_and_panels: ["Linux"]
     }
   },
   hobbies: ["Gusion Main (MLBB)", "Competitive Gaming"],
